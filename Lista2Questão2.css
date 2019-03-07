@@ -1,0 +1,27 @@
+a:link {
+  text-decoration: overline;
+  color: red;
+  border-style: solid blue;
+  background-color : black;
+  
+  
+}
+
+a:visited {
+  text-decoration: Underline;
+  font-style: italic;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: orange;
+  border-style: dotted black;
+  background-color : white;
+  font-style: bold;
+}
+
+a:active {
+  text-decoration: line-through;
+  color: yellow;
+}
+
